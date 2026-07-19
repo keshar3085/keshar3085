@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=750&color=0E75B6&lines=Hi+👋,+I'm+Keshar+Sahu;CSE+(Data+Science)+Student)](https://git.io/typing-svg)
 
 
-<h3 align="center"> C++ | Python Developer | Data Analyst</h3>
+<h3 align="center"> AI&ml Enthusiast | Python Developer | Data Analyst Learner</h3>
 
 ---
 
@@ -22,6 +22,21 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=keshar3085&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshar3085&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=keshar3085&theme=tokyonight&hide_border=true"/>
+</p>
+
+
 
 ### Web
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
