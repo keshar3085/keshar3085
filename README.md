@@ -23,18 +23,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=keshar3085&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshar3085&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=keshar3085&theme=tokyonight&hide_border=true"/>
-</p>
 
 
 
@@ -80,3 +68,15 @@
 ---
 
 ⭐ Thanks for visiting my profile!# Keshar-Sahu
+<h2 🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=keshar3085&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/keshar3085/keshar3085/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
