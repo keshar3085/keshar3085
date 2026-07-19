@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&repeat=false&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Keshar+Sahu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Keshar+Sahu" alt="Typing SVG" />
 </p>
 
 <p align="center">
