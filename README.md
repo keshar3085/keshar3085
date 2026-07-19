@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=750&color=0E75B6&lines=Hi+👋,+I'm+Keshar+Sahu;CSE+(Data+Science)+Student)](https://git.io/typing-svg)
 
 
-<h3 align="center"> AI&ml Enthusiast | Python Developer | Data Analyst Learner</h3>
+<h3 align="center"> Python Developer | AI & ML | Data Analyst Learner</h3>
 
 ---
 
@@ -72,6 +72,12 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=keshar3085&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshar3085&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 
