@@ -50,35 +50,18 @@
 - SQLite Database
 - Data Visualization
 
-### 🔹 LeetCode Solutions
-- C++
-- Optimized Solutions
 
 ---
 
 
-## 🎯 2026 Goals
 
-- ✅ Solve 300+ LeetCode Problems
-- ✅ Build Good Projects
-- ✅ Learn Machine Learning
-- ✅ Contribute to Open Source
-- ✅ Crack Product-Based Company Placements
-
----
-
-⭐ Thanks for visiting my profile!# Keshar-Sahu
 <h2 🔥 GitHub Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=keshar3085&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📈 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshar3085&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
 
 
 ## 🐍 Contribution Snake
@@ -86,3 +69,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/keshar3085/keshar3085/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+⭐ Thanks for visiting my profile!# Keshar-Sahu
