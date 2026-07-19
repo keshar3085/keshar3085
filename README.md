@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=750&color=0E75B6&lines=Hi+👋,+I'm+Keshar+Sahu;CSE+(Data+Science)+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=750&color=0E75B6&lines=Hi+👋,+I'm+Keshar+Sahu;CSE+(Data+Science)+Student)](https://git.io/typing-svg)
 
 
 <h3 align="center"> C++ | Python Developer | Data Analyst</h3>
