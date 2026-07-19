@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Keshar+Sahu+👋;CSE+Data+Science+Student;Python+Developer;AI+%7C+ML+Enthusiast)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Keshar Sahu</h1>
 <h3 align="center">CSE (Data Science) Student | Python Developer | Data Analyst</h3>
 
@@ -46,18 +47,10 @@
 
 ### 🔹 LeetCode Solutions
 - C++
-- Interview Preparation
 - Optimized Solutions
 
 ---
 
-## 📈 GitHub Stats
-
-![Keshar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshar3085&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshar3085&layout=compact)
-
----
 
 ## 🎯 2026 Goals
 
