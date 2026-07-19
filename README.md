@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Keshar Sahu</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2000&pause=100000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Keshar+Sahu" alt="Name Animation" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=CSE+Data+Science+Student;Python+Developer;AI+%26+ML+Enthusiast;Cybersecurity+Learner;Future+Software+Engineer+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2200&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Python+Developer;C%2B%2B+Programmer;Data+Science+Student;AI+%26+Machine+Learning" alt="Skills Animation" />
 </p>
 <h1 align="center">Hi 👋, I'm Keshar Sahu</h1>
 <h3 align="center">CSE (Data Science) Student | Python Developer | Data Analyst</h3>
