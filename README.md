@@ -1,11 +1,6 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Keshar+Sahu" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=750&color=0E75B6&lines=Hi+👋,+I'm+Keshar+Sahu;CSE+(Data+Science)+Student)](https://git.io/typing-svg)
 
-<p align="center">
-  <b>🎓 Computer Science Engineering (Data Science) Student</b>
-</p>
 
 <h3 align="center"> C++ | Python Developer | Data Analyst</h3>
 
