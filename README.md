@@ -55,13 +55,6 @@
 
 
 
-<h2 🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=keshar3085&theme=tokyonight&hide_border=true"/>
-</p>
-
-
 
 
 ## 🐍 Contribution Snake
@@ -69,4 +62,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/keshar3085/keshar3085/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-⭐ Thanks for visiting my profile!# Keshar-Sahu
+
